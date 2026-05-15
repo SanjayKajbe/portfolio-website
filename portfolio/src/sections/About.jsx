@@ -24,21 +24,22 @@ function About() {
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
         >
-          <h2 className="text-5xl font-bold text-blue-400 mb-6">About Us</h2>
+          <h2 className="text-5xl font-bold text-blue-400 mb-6">About Me</h2>
 
           <p className="text-gray-300 text-lg leading-8 mb-4">
-            We build modern web experiences with clean UI, strong fundamentals,
-            and a focus on delivering real-world value.
+            I build modern web experiences with clean UI, strong fundamentals, and 
+            a focus on delivering real-world value.
           </p>
 
           <p className="text-gray-400 leading-8 mb-4">
-            Our toolkit includes React and Tailwind for frontend, and PHP/Python
-            with MongoDB & MySQL for full-stack development.
+            My toolkit includes React and Tailwind for frontend development, along with PHP, Python, 
+            MongoDB, and MySQL for building full-stack applications.
+
           </p>
 
           <p className="text-gray-400 leading-8">
-            Our goal is to keep growing as software engineers and create impactful
-            digital solutions—one project at a time.
+           I am continuously learning and growing as a software developer, with the goal of creating impactfu
+           l and user-friendly digital solutions.
           </p>
         </motion.div>
       </div>
